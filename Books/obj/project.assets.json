@@ -1862,6 +1862,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
+          "Books.Models": "1.0.0",
+          "Books.Utility": "1.0.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "5.0.9",
           "Microsoft.EntityFrameworkCore.Relational": "5.0.9",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.9"
@@ -1881,6 +1883,16 @@
         },
         "runtime": {
           "bin/placeholder/Books.Models.dll": {}
+        }
+      },
+      "Books.Utility/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Books.Utility.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Books.Utility.dll": {}
         }
       }
     }
@@ -6742,6 +6754,11 @@
       "type": "project",
       "path": "../Books.Models/Books.Models.csproj",
       "msbuildProject": "../Books.Models/Books.Models.csproj"
+    },
+    "Books.Utility/1.0.0": {
+      "type": "project",
+      "path": "../Books.Utility/Books.Utility.csproj",
+      "msbuildProject": "../Books.Utility/Books.Utility.csproj"
     }
   },
   "projectFileDependencyGroups": {
