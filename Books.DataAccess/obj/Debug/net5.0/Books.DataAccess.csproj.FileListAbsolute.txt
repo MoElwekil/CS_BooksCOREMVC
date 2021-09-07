@@ -10,3 +10,8 @@ C:\Users\MoElwekil\Desktop\CS_BooksCOREMVC\Books.DataAccess\obj\Debug\net5.0\Boo
 C:\Users\MoElwekil\Desktop\CS_BooksCOREMVC\Books.DataAccess\obj\Debug\net5.0\Books.DataAccess.dll
 C:\Users\MoElwekil\Desktop\CS_BooksCOREMVC\Books.DataAccess\obj\Debug\net5.0\ref\Books.DataAccess.dll
 C:\Users\MoElwekil\Desktop\CS_BooksCOREMVC\Books.DataAccess\obj\Debug\net5.0\Books.DataAccess.pdb
+C:\Users\MoElwekil\Desktop\CS_BooksCOREMVC\Books.DataAccess\bin\Debug\net5.0\Books.Models.dll
+C:\Users\MoElwekil\Desktop\CS_BooksCOREMVC\Books.DataAccess\bin\Debug\net5.0\Books.Utility.dll
+C:\Users\MoElwekil\Desktop\CS_BooksCOREMVC\Books.DataAccess\bin\Debug\net5.0\Books.Models.pdb
+C:\Users\MoElwekil\Desktop\CS_BooksCOREMVC\Books.DataAccess\bin\Debug\net5.0\Books.Utility.pdb
+C:\Users\MoElwekil\Desktop\CS_BooksCOREMVC\Books.DataAccess\obj\Debug\net5.0\Books.DataAccess.csproj.CopyComplete
