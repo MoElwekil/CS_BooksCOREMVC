@@ -442,3 +442,5 @@ C:\Users\MoElwekil\Desktop\CS_BooksCOREMVC\Books\bin\Debug\net5.0\Books.Utility.
 C:\Users\MoElwekil\Desktop\CS_BooksCOREMVC\Books\bin\Debug\net5.0\Books.Utility.pdb
 C:\Users\MoElwekil\Desktop\CS_BooksCOREMVC\Books\obj\Debug\net5.0\Razor\Areas\Customer\Views\Home\Index.cshtml.g.cs
 C:\Users\MoElwekil\Desktop\CS_BooksCOREMVC\Books\obj\Debug\net5.0\Razor\Areas\Customer\Views\Home\Privacy.cshtml.g.cs
+C:\Users\MoElwekil\Desktop\CS_BooksCOREMVC\Books\obj\Debug\net5.0\Razor\Areas\Customer\Views\_ViewImports.cshtml.g.cs
+C:\Users\MoElwekil\Desktop\CS_BooksCOREMVC\Books\obj\Debug\net5.0\Razor\Areas\Customer\Views\_ViewStart.cshtml.g.cs
