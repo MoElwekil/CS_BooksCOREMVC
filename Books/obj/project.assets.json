@@ -1857,6 +1857,31 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
+      },
+      "Books.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "5.0.9",
+          "Microsoft.EntityFrameworkCore.Relational": "5.0.9",
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.9"
+        },
+        "compile": {
+          "bin/placeholder/Books.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Books.DataAccess.dll": {}
+        }
+      },
+      "Books.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Books.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Books.Models.dll": {}
+        }
       }
     }
   },
@@ -6707,10 +6732,22 @@
         "system.xml.xmlserializer.4.3.0.nupkg.sha512",
         "system.xml.xmlserializer.nuspec"
       ]
+    },
+    "Books.DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../Books.DataAccess/Books.DataAccess.csproj",
+      "msbuildProject": "../Books.DataAccess/Books.DataAccess.csproj"
+    },
+    "Books.Models/1.0.0": {
+      "type": "project",
+      "path": "../Books.Models/Books.Models.csproj",
+      "msbuildProject": "../Books.Models/Books.Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "Books.DataAccess >= 1.0.0",
+      "Books.Models >= 1.0.0",
       "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 5.0.9",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 5.0.9",
       "Microsoft.AspNetCore.Identity.UI >= 5.0.9",
@@ -6745,7 +6782,14 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\MoElwekil\\Desktop\\CS_BooksCOREMVC\\Books.DataAccess\\Books.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\MoElwekil\\Desktop\\CS_BooksCOREMVC\\Books.DataAccess\\Books.DataAccess.csproj"
+            },
+            "C:\\Users\\MoElwekil\\Desktop\\CS_BooksCOREMVC\\Books.Models\\Books.Models.csproj": {
+              "projectPath": "C:\\Users\\MoElwekil\\Desktop\\CS_BooksCOREMVC\\Books.Models\\Books.Models.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

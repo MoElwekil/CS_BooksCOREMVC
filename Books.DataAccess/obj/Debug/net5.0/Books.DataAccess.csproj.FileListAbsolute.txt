@@ -1,0 +1,12 @@
+C:\Users\MoElwekil\Desktop\CS_BooksCOREMVC\Books.DataAccess\bin\Debug\net5.0\Books.DataAccess.deps.json
+C:\Users\MoElwekil\Desktop\CS_BooksCOREMVC\Books.DataAccess\bin\Debug\net5.0\Books.DataAccess.dll
+C:\Users\MoElwekil\Desktop\CS_BooksCOREMVC\Books.DataAccess\bin\Debug\net5.0\ref\Books.DataAccess.dll
+C:\Users\MoElwekil\Desktop\CS_BooksCOREMVC\Books.DataAccess\bin\Debug\net5.0\Books.DataAccess.pdb
+C:\Users\MoElwekil\Desktop\CS_BooksCOREMVC\Books.DataAccess\obj\Debug\net5.0\Books.DataAccess.csproj.AssemblyReference.cache
+C:\Users\MoElwekil\Desktop\CS_BooksCOREMVC\Books.DataAccess\obj\Debug\net5.0\Books.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MoElwekil\Desktop\CS_BooksCOREMVC\Books.DataAccess\obj\Debug\net5.0\Books.DataAccess.AssemblyInfoInputs.cache
+C:\Users\MoElwekil\Desktop\CS_BooksCOREMVC\Books.DataAccess\obj\Debug\net5.0\Books.DataAccess.AssemblyInfo.cs
+C:\Users\MoElwekil\Desktop\CS_BooksCOREMVC\Books.DataAccess\obj\Debug\net5.0\Books.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\MoElwekil\Desktop\CS_BooksCOREMVC\Books.DataAccess\obj\Debug\net5.0\Books.DataAccess.dll
+C:\Users\MoElwekil\Desktop\CS_BooksCOREMVC\Books.DataAccess\obj\Debug\net5.0\ref\Books.DataAccess.dll
+C:\Users\MoElwekil\Desktop\CS_BooksCOREMVC\Books.DataAccess\obj\Debug\net5.0\Books.DataAccess.pdb

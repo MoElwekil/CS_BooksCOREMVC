@@ -1,0 +1,12 @@
+C:\Users\MoElwekil\Desktop\CS_BooksCOREMVC\Books.Utility\bin\Debug\net5.0\Books.Utility.deps.json
+C:\Users\MoElwekil\Desktop\CS_BooksCOREMVC\Books.Utility\bin\Debug\net5.0\Books.Utility.dll
+C:\Users\MoElwekil\Desktop\CS_BooksCOREMVC\Books.Utility\bin\Debug\net5.0\ref\Books.Utility.dll
+C:\Users\MoElwekil\Desktop\CS_BooksCOREMVC\Books.Utility\bin\Debug\net5.0\Books.Utility.pdb
+C:\Users\MoElwekil\Desktop\CS_BooksCOREMVC\Books.Utility\obj\Debug\net5.0\Books.Utility.csproj.AssemblyReference.cache
+C:\Users\MoElwekil\Desktop\CS_BooksCOREMVC\Books.Utility\obj\Debug\net5.0\Books.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MoElwekil\Desktop\CS_BooksCOREMVC\Books.Utility\obj\Debug\net5.0\Books.Utility.AssemblyInfoInputs.cache
+C:\Users\MoElwekil\Desktop\CS_BooksCOREMVC\Books.Utility\obj\Debug\net5.0\Books.Utility.AssemblyInfo.cs
+C:\Users\MoElwekil\Desktop\CS_BooksCOREMVC\Books.Utility\obj\Debug\net5.0\Books.Utility.csproj.CoreCompileInputs.cache
+C:\Users\MoElwekil\Desktop\CS_BooksCOREMVC\Books.Utility\obj\Debug\net5.0\Books.Utility.dll
+C:\Users\MoElwekil\Desktop\CS_BooksCOREMVC\Books.Utility\obj\Debug\net5.0\ref\Books.Utility.dll
+C:\Users\MoElwekil\Desktop\CS_BooksCOREMVC\Books.Utility\obj\Debug\net5.0\Books.Utility.pdb
